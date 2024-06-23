@@ -17108,13 +17108,13 @@ class AutoInsert extends \CodeIgniter\Database\Seeder
         // ]);
 
         $this->db->table('configuracoes')->insert([
-            'nome_do_app' => 'Nome do App',
+            'nome_do_app' => 'DOVAH ERP - Sandbox',
             'tema'        => '4',
-            'xNome'       => 'NxGestão Sistema de Gestão',
-            'xFant'       => 'NxGestão',
+            'xNome'       => 'DOVAH',
+            'xFant'       => 'DOVAH',
             'CNPJ'        => '0000000000000',
-            'telefone'    => '69999342343',
-            'endereco'    => 'Rua das Dores, Quadra 09 Lote 23'
+            'telefone'    => '(13) 99626-2220',
+            'endereco'    => 'R. Luiz Antonio de Andrade Vieira, 216 - Sala 7777 - Boqueirão, Praia Grande - SP, 11701-040'
         ]);
 
         $this->db->table('configuracoes_api_boletos')->insert([
