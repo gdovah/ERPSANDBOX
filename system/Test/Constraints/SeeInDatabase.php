@@ -9,9 +9,6 @@
  * the LICENSE file that was distributed with this source code.
  */
 
- //  SHAD É VIADO
-
-
 namespace CodeIgniter\Test\Constraints;
 
 use CodeIgniter\Database\ConnectionInterface;
