@@ -22,3 +22,8 @@ abstract class CIDatabaseTestCase extends CIUnitTestCase
 {
     use DatabaseTestTrait;
 }
+
+
+ // SHAD VIADAO
+
+ 
